@@ -1,4 +1,4 @@
-package org.example;
+package de.swa.magic;
 
 import java.util.Objects;
 
